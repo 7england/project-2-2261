@@ -87,7 +87,7 @@ public class connectFour {
     }
 
 
-
+//reference http://soultionmanual.blogspot.com/2016/08/chapter-8-exercise-20-introduction-to.html
     public static boolean checkBoard(int[][] m) {
         checkV(m);
         checkH(m);
